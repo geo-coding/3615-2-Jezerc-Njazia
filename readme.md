@@ -34,4 +34,8 @@ Gzim (Zyber) Balija     1005593588
 +38344471604
 Jezerc
 
+$ dyfishet
+
+12,16,30
+
 ```
